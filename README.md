@@ -63,4 +63,9 @@ O jogo possui um fundo animado em GIF para dar mais vida à tela.
 - Linguagens de Programação: HTML, CSS, JavaScript  
 - Editor de Código: Visual Studio Code  
 - Gerenciamento de Versão: Git / GitHub  
-- Software de Arte: Piskel  
+- Software de Arte: Piskel
+
+## 👥 Membros do Grupo
+- **Lucas Cesar Nazareno** – Programação, Artes e Design  
+- **Kauã Costa de Oliveira** – Artes e Design
+
