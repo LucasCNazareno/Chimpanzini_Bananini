@@ -65,6 +65,6 @@ O jogo possui um fundo animado em GIF para dar mais vida à tela.
 - Software de Arte: Piskel
 
 ## Membros do Grupo
-- **Lucas Cesar Nazareno** – Programação, Artes e Design  
-- **Kauã Costa de Oliveira** – Artes e Design
+- **Lucas Cesar Nazareno** – Programação, Art e Design  
+- **Kauã Costa de Oliveira** – Art e Design
 
