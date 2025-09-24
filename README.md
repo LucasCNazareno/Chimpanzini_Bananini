@@ -65,7 +65,7 @@ O jogo possui um fundo animado em GIF para dar mais vida à tela.
 - Gerenciamento de Versão: Git / GitHub  
 - Software de Arte: Piskel
 
-## 👥 Membros do Grupo
+## Membros do Grupo
 - **Lucas Cesar Nazareno** – Programação, Artes e Design  
 - **Kauã Costa de Oliveira** – Artes e Design
 
