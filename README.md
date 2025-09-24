@@ -34,9 +34,11 @@ Representam a vida do jogador. Cada lixo remove um coração; cada banana recupe
 ![Fezes do Jogador](img/bosta.png)  
 Disparados pelo jogador para eliminar inimigos.
 
+### Lixo
 ![Lixo do Inimigo](img/lixo.png)  
 Projéteis que causam dano.
 
+### Banana
 ![Banana do Inimigo](img/banana.png)  
 Projéteis que recuperam vida.
 
@@ -47,7 +49,7 @@ O jogo possui um fundo animado em GIF para dar mais vida à tela.
 ### Botões
 ![Botão Iniciar](img/start.png) 
 
-## Tela de Vitória e Game Over
+## Telas 
 - Vitória:  
 ![Vitória](img/vitoria.png)
 
