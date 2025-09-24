@@ -1,7 +1,7 @@
 # Chimpanzini_Bananini
 Chimpanzini Bananini é um jogo 2D para web que servira para avaliação do 4° bimestre da disciplina de DJW e de português 
 
-![Logo do Jogo](img/logo.png)
+![Logo do Jogo](img/Logo.png)
 
 ## Descrição do Jogo
 Chimpanzini Bananini é um jogo de ação no estilo arcade, onde o jogador controla um macaco que deve enfrentar inimigos lançando suas proprias fezes neles, enquanto desvia de ataques. O objetivo é eliminar todos os inimigos antes que o tempo acabe ou antes de perder todas as vidas.
