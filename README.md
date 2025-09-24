@@ -17,7 +17,7 @@ Chimpanzini Bananini é um jogo de ação no estilo arcade, onde o jogador contr
 
 ### Macaco (Jogador)
 ![Macaco](img/Macaco.gif)  
-![Macaco](img/Frente.png)
+![Frente](img/Frente.png)
 O personagem controlado pelo jogador. Pode se mover horizontalmente e atirar projéteis.
 
 ### Inimigos
