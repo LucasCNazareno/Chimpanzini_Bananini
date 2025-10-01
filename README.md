@@ -10,7 +10,7 @@ Chimpanzini Bananini é um jogo de ação no estilo arcade, onde o jogador contr
 - Use as teclas **A** e **D** para mover o macaco para a esquerda e direita.
 - Evite os lixos disparados pelos inimigos, que diminuem suas vidas.
 - Pegue as bananas disparadas pelos inimigos para recuperar uma vida.
-- O jogo dura 2 minutos. Se o jogador sobreviver ou eliminar todos os inimigos, vence.
+- O jogo dura 1 minutos. Se o jogador sobreviver e eliminar todos os inimigos, vence.
 - Ao perder todas as vidas ou quando o tempo acabar, o jogo termina.
 
 ## Personagens e Elementos
@@ -23,7 +23,7 @@ O personagem controlado pelo jogador. Pode se mover horizontalmente e atirar pro
 ### Inimigos
 ![Inimigo](img/Inimigo.png)  
 Os inimigos lançam dois tipos de projéteis:
-- Lixo: causa dano ao jogador
+- Lixos: causam dano ao jogador
 - Banana: recupera vida do jogador
 
 ### Corações de Vida
@@ -35,7 +35,8 @@ Representam a vida do jogador. Cada lixo remove um coração; cada banana recupe
 Disparados pelo jogador para eliminar inimigos.
 
 ### Lixo
-![Lixo do Inimigo](img/lixo.png)  
+![Lixo do Inimigo](img/lixo1.png)  
+![Lixo do Inimigo](img/lixo2.png)
 Projéteis que causam dano.
 
 ### Banana
@@ -48,6 +49,7 @@ O jogo possui um fundo animado em GIF para dar mais vida à tela.
 
 ### Botões
 ![Botão Iniciar](img/start.png) 
+![Botão Iniciar](img/voltar.png) 
 
 ## Telas 
 - Vitória:  
